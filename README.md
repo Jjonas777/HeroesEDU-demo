@@ -1,6 +1,6 @@
 # Notas
 
-Este repositorio sirve para probar stashes y rebase
+Este repositorio sirve para probar rebase: squash y Reword.
 
 
 ## Héroes Destacados
