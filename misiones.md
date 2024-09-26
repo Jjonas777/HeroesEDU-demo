@@ -6,3 +6,4 @@
 4. Rescatar a los ciudadanos de un meteorito - Prioridad urgente
 5. Rescatar a los rehenes de un asalto en un banco - Prioridad Alta
 6. Atrapar a los ladrones de una caja fuerte
+7. Atrapar e interrogar a viajero en el tiempo.
