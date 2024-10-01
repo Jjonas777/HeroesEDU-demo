@@ -1,6 +1,6 @@
 # Notas
 
-Este repositorio sirve para probar rebase: squash y Reword.
+Este repositorio sirve para probar GitHub, Git Remote, Push & Pull.
 
 
 ## Héroes Destacados
