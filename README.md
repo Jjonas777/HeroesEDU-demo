@@ -1,6 +1,6 @@
 # Notas
 
-Este repositorio sirve para probar GitHub, Git Remote, Push & Pull.
+Este repositorio sirve para probar GitHub, Git Remote, Push & Pull, fetch vs pull.
 
 
 ## Héroes Destacados

@@ -7,3 +7,4 @@
 * Linterna Verde
 * Robin
 * Ciborg
+* Flash
